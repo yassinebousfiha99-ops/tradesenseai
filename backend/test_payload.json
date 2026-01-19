@@ -1,0 +1,6 @@
+{
+  "amount": "120.00",
+  "currency": "USD",
+  "return_url": "http://localhost:5173/checkout",
+  "cancel_url": "http://localhost:5173/checkout"
+}
